@@ -13,7 +13,7 @@
 - [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Conteúdos sobre o dia a dia e a vida de um programador
 - [O Bruno Germano](https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg) - Live Coding e conceitos gerais
 - [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) - Tecnologia e Linguagens de Programação
-- [Rodrigo Banas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ) - Lives com profissionais e Linguagens de Programação
+- [Rodrigo Branas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ) - Lives com profissionais e Linguagens de Programação
 - [Attekita Dev](https://www.youtube.com/c/AttekitaDev/featured) - Dicas e Conceitos para Devs
 - [balta.io](https://www.youtube.com/c/baltaio/videos) - Conceitos de .NET, DevOps, Front-End, etc.
 - [Fabio Akita](https://www.youtube.com/c/FabioAkita1990/featured) - Tecnologia no geral
