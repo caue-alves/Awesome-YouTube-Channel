@@ -52,6 +52,7 @@
 # Front End
 - [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA) - ReactJS, Javascript e React Native
 - [DevPleno](https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww) - Javascipt e ReactJS
+- [BrazilJS](https://www.youtube.com/channel/UCnLdHOuue5i1O7TsH6oh07w) - mais diversos conteúdos sobre a linguagem Javascript
 
 # PHP
 - [Dias de Dev](https://www.youtube.com/channel/UCg1nJKjie4vb8FILBbv3F6A) - Conceitos e peculiaridades do PHP
