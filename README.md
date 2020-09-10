@@ -17,6 +17,7 @@
 - [Attekita Dev](https://www.youtube.com/c/AttekitaDev/featured) - Dicas e Conceitos para Devs
 - [balta.io](https://www.youtube.com/c/baltaio/videos) - Conceitos de .NET, DevOps, Front-End, etc.
 - [Fabio Akita](https://www.youtube.com/c/FabioAkita1990/featured) - Tecnologia no geral
+- [Guiminam](https://www.youtube.com/c/Guiminam/videos) - Conceitos e dicas para programadores
 
 # Linux
 - [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA) - Conceitos de Linux e Hardware
@@ -45,3 +46,9 @@
 
 # Negógios e Agile Thinking
 - [Digital Job](https://www.youtube.com/channel/UC629vKGFPRc1rz6VDm6OZiQ) - Carreira e empreendendorismo
+
+# Front End
+- [Dev Soutinho](https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA) - ReactJS, Javascript e React Native
+
+# PHP
+- [Dias de Dev](https://www.youtube.com/channel/UCg1nJKjie4vb8FILBbv3F6A) - Conceitos e peculiaridades do PHP
