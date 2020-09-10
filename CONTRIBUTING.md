@@ -8,19 +8,16 @@ O Canal deve seguir no seguinte template:
 
 Link:
 
-
-```
-✅ https://youtube.com/channel/nome
+✅ `https://youtube.com/channel/nome`
 
 
-✅ https://youtube.com/user/nome
+✅ `https://youtube.com/user/nome`
 
 
-❌ https://youtube.com/c/nome/videos
+❌ `https://youtube.com/c/nome/videos`
 
 
-❌ https://youtube.com/c/nome/playlists
-```
+❌ `https://youtube.com/c/nome/playlists`
 
 
 Ele deve estar direcionado para a página inicial do canal
@@ -32,9 +29,8 @@ Ele deve estar direcionado para a página inicial do canal
 
 ## Template de descrição
 
-```
-✅ - [nome](https://link_de_acordo) - Descrição
+
+✅ ` - [nome](https://link_de_acordo) - Descrição`
 
 
-❌ - [canalA](https://link_canalB) - Descrição Errada
-```
+❌ `- [canalA](https://link_canalB) - Descrição Errada`
