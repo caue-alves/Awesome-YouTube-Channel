@@ -10,6 +10,11 @@
 - [Código Fonte TV](https://www.youtube.com/user/codigofontetv) - Conhecimentos gerais sobre os mais diversos conteúdos da tecnologia
 - [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg) - Dia a dia de um programador e bate-papos sobre o futuro da tecnologia
 - [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Conteúdos sobre o dia a dia e a vida de um programador
+- [O Bruno Germano](https://www.youtube.com/channel/UCBWbWViVqDHckknir8PIIdg) - Live Coding e conceitos gerais
+- [TekZoom](https://www.youtube.com/channel/UCPIAn-SWhJzBilt1MekO4Vg) - Tecnologia e Linguagens de Programação
+- [Rodrigo Banas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ) - Lives com profissionais e Linguagens de Programação
+- [Attekita Dev](https://www.youtube.com/c/AttekitaDev/featured) - Dicas e Conceitos para Devs
+- [balta.io](https://www.youtube.com/c/baltaio/videos) - Conceitos de .NET, DevOps, Front-End, etc.
 
 # Linux
 - [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA) - Conceitos de Linux e Hardware
@@ -20,6 +25,9 @@
 
 # Hacking
 - [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Hacking e Segurança Digital
+
+# Mobile
+- [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Conceitos do Framework Flutter
 
 
 
