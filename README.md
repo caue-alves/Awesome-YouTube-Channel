@@ -30,6 +30,7 @@
 
 # Mobile
 - [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Conceitos do Framework Flutter
+- [Gabul DEV](https://www.youtube.com/channel/UC13gar1iS-icxHq7wEQLPaQ) - Flutter e conceitos gerais sobre o programador
 
 # Desenvolvimento de Jogos
 - [Renzk](https://www.youtube.com/channel/UCjh-a_yuBwvhkiltrWrucjg) - Desenvolvimento de Jogos com humor
