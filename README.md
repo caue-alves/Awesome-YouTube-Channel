@@ -15,6 +15,7 @@
 - [Rodrigo Banas](https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ) - Lives com profissionais e Linguagens de Programação
 - [Attekita Dev](https://www.youtube.com/c/AttekitaDev/featured) - Dicas e Conceitos para Devs
 - [balta.io](https://www.youtube.com/c/baltaio/videos) - Conceitos de .NET, DevOps, Front-End, etc.
+- [Fabio Akita](https://www.youtube.com/c/FabioAkita1990/featured) - Tecnologia no geral
 
 # Linux
 - [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA) - Conceitos de Linux e Hardware
