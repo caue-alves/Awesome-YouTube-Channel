@@ -11,7 +11,7 @@
 - [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg) - Dia a dia de um programador e bate-papos sobre o futuro da tecnologia
 - [Programador BR](https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ) - Conteúdos sobre o dia a dia e a vida de um programador
 
-# Linux e Hardware
+# Linux
 - [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA) - Conceitos de Linux e Hardware
 
 # Machine Leraning e Algoritmos
