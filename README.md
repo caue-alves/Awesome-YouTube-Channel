@@ -6,6 +6,11 @@
 - [Machine Leraning e Algoritmos](#machine-leraning-e-algoritmos)
 - [Hacking](#machine-leraning-e-algoritmos)
 - [Desenvolvimento de Jogos](#desenvolvimento-de-jogos)
+- [Reviews de Hardware](#reviews-de-hardware)
+- [Negócios e Agile Thinking](#negocios-e-agile-thinking)
+- [Front End](#front-end)
+- [PHP](#php)
+- [Python](#python)
 
 
 # Geral
@@ -48,7 +53,7 @@
 - [Gabriel De Pinho](https://www.youtube.com/channel/UCBqoA_hedJJaOBhsVLy1GAg) - Reviews e outros sobre Hardware
 - [TechnoArt](https://www.youtube.com/channel/UCHUhlZy-CbS0-YvPQ5yBRIQ) - Reviews de PCs e seus periféricos
 
-# Negógios e Agile Thinking
+# Negócios e Agile Thinking
 - [Digital Job](https://www.youtube.com/channel/UC629vKGFPRc1rz6VDm6OZiQ) - Carreira e empreendendorismo
 
 # Front End
