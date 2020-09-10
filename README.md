@@ -1,4 +1,4 @@
-# Awesome BR Youtube Channels  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome BR Youtube Channels  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Brazilian](https://img.shields.io/badge/Made%20By-Brazilians-green)](https://github.com/caue-alves/Awesome-BR-YouTube-Channels/blob/master/README.md)
 - [Geral](#geral)
 - [Linux](#linux)
 - [Machine Leraning e Algoritmos](#machine-leraning-e-algoritmos)
