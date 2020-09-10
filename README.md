@@ -3,6 +3,7 @@
 - [Linux](#linux)
 - [Machine Leraning e Algoritmos](#machine-leraning-e-algoritmos)
 - [Hacking](#machine-leraning-e-algoritmos)
+- [Desenvolvimento de Jogos](#desenvolvimento-de-jogos)
 
 
 # Geral
