@@ -23,7 +23,7 @@ Link:
 Ele deve estar direcionado para a página inicial do canal
 
 
-# Sobre o Canal
+## Sobre o Canal
 
 ✅ O canal deve ser sobre algum conceito diretamente ligado à tecnologia e não pode conter nenhum conteúdo do tipo inapropriado, político, preconceituoso ou qualquer outro tipo de conteúdo que possa deixar o espectador desconfotável
 
