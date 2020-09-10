@@ -9,4 +9,13 @@
 # Linux e Hardware
 - [Diolinux](https://www.youtube.com/channel/UCEf5U1dB5a2e2S-XUlnhxSA) - Conceitos de Linux e Hardware
 
+# Machine Leraning e Algoritmos
+- [Universo Programado](https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg) - Construcão de algoritmos incríveis para os mais diversos fins
+- [Peixe Babel](https://www.youtube.com/user/CanalPeixeBabel) - Algoritmos e Data Science
+
+# Hacking
+- [Gabriel Pato](https://www.youtube.com/channel/UC70YG2WHVxlOJRng4v-CIFQ) - Hacking e Segurança Digital
+
+
+
 
