@@ -30,6 +30,7 @@
 # Mobile
 - [Flutterando](https://www.youtube.com/channel/UCplT2lzN6MHlVHHLt6so39A) - Conceitos do Framework Flutter
 
-
-
+# Game Developement
+- [Renzk](https://www.youtube.com/channel/UCjh-a_yuBwvhkiltrWrucjg) - Desenvolvimento de Jogos com humor
+- [Proxy Gamedev](https://www.youtube.com/channel/UCzP7vf7gMGPOChM7BPFoGMg) - Desenvolvimento de Jogos
 
