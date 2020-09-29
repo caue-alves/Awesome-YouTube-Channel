@@ -10,7 +10,7 @@
 - [General](#general)
 - [Linux](#linux)
 - [Machine Leraning & Algorithms](#machine-leraning--algorithms)
-- [Hacking](#machine-leraning-e-algoritmos)
+- [Hacking](#hacking)
 - [Game Developement](#game-developement)
 - [Hardware Reviews](#hardware-reviews)
 - [Agile Thinking](#agile-thinking)
